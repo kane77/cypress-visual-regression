@@ -5,6 +5,7 @@
   "repository": "https://github.com/mjhea0/cypress-visual-regression",
   "author": "Michael Herman <michael@mherman.org>",
   "license": "MIT",
+  "types": "index.d.ts",
   "keywords": [
     "visual regression",
     "image diff",
