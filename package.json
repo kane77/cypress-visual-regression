@@ -39,7 +39,8 @@
     "dist/command.js",
     "dist/plugin.js",
     "dist/README.md",
-    "dist/package.json"
+    "dist/package.json",
+    "index.d.ts"
   ],
   "ignore": [
     "src",
